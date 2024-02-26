@@ -37,10 +37,9 @@ p span {
     width: 85%;
 }
 .gun {
-    transition: transform .5s ease-in-out;
-    padding: 0%;
-    margin-right: 10px;
-    margin-left: 10px;
+    transition: transform .5s ease-in-out, margin .5s ease-in-out;
+    padding: 0%;    
+    margin: auto 10px;
     max-width: 360px;
     min-width: 150px;
     min-height: auto;
@@ -48,4 +47,5 @@ p span {
 }
 .gun:hover {
     transform: scale(110%);
+    margin: auto 15px;
 }
