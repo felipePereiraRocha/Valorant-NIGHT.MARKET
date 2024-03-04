@@ -1,7 +1,7 @@
 const myDate = new Date();
 const day = myDate.getDate();
 console.log(day);
-//DYNAMIC MONTH COUNTDOWN(i did it yeppie ^-^!!!... it was'nt that difficult to be honest-_-)//
+//DYNAMIC MONTH COUNTDOWN(i did it yeppie ^-^!!!... it was'nt that difficult to be honest -_-)//
 function Month() {
     const myMonth = new Date();
     var month = myMonth.getMonth();

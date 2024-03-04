@@ -52,7 +52,7 @@ h1 {
 }
 
 .gun {
-    transition: transform .5s ease-in-out, margin .5s ease-in-out;
+    transition: transform .3s ease-in-out;
     padding: 0%;    
     margin: auto 10px;
     max-width: 360px;
